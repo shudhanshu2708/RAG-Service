@@ -1,4 +1,4 @@
-# RAG-Service
+# DocQuery
 
 A Retrieval-Augmented Generation (RAG) backend that lets you upload PDF documents and ask natural-language questions about their content. Built with FastAPI, LangChain, ChromaDB, and Ollama for fully local inference (no external API keys required).
 
